@@ -1,0 +1,9 @@
+.DS_Store
+site/
+.cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/**/*
+.ipynb_checkpoints/
+!.obsidian/plugins/*/
+!.obsidian/plugins/*/data.json
